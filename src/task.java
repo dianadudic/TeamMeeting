@@ -3,4 +3,5 @@ public class task {
         //practice
         System.out.println("out");
     }
+
 }
