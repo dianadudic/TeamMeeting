@@ -1,5 +1,10 @@
 package Volkan;
 
 public class task1 {
-    //Hello Group14
+    public static void main(String[] args) {
+        //Hello Group14
+        //hey Saltanat
+    }
+
+
 }
