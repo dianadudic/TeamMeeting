@@ -1,7 +1,7 @@
 package SerdarAnnakurdov;
 
-public class Serdar {
+public class SerdarsClass {
     public static void main(String[] args) {
-        System.out.println("hello");
+        // this is my project
     }
 }
